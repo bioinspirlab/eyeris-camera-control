@@ -1,0 +1,7 @@
+@software{EyeRISCameraControl,
+  author = {Paul L. D. Roberts},
+  title = {{EyeRISCameraControl}},
+  url = {https://github.com/bioinspirlab/eyeris-camera-control},
+  version = {1.0.0},
+  year = {2024}
+}
